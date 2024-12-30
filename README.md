@@ -31,6 +31,8 @@ And if the implementation of this repo is helpful to you, just star it.
 
 The IRDST dataset: <http://xzbai.buaa.edu.cn/datasets.html>
 
+Currently, the single-frame version of the IRDST dataset has been open-sourced. The sequence version of the IRDST dataset is still being checked and will be updated in the future.
+
 ## Experiments 
 
 The training and testing experiments are conducted using [PyTorch](https://github.com/pytorch/pytorch) with a single GeForce RTX 3090 GPU of 24 GB Memory.
