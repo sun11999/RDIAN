@@ -29,9 +29,9 @@ And if the implementation of this repo is helpful to you, just star it.
 
 ## Dataset
 
-The IRDST dataset: <http://xzbai.buaa.edu.cn/datasets.html>
+The single-frame version of IRDST dataset: <http://xzbai.buaa.edu.cn/datasets.html>
 
-Currently, the single-frame version of the IRDST dataset has been open-sourced. The sequence version of the IRDST dataset is still being checked and will be updated in the future.
+The sequence version of IRDST dataset: <https://pan.baidu.com/s/1icmYAeRfPdL5n0YcUtuNhg?pwd=kk6h>
 
 ## Experiments 
 
